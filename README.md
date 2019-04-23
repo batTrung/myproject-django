@@ -19,7 +19,7 @@ Cài đặt requirements:
 
 ```bash
 $ cd myproject-django
-$ pip install -r requirements.txt
+$ source env/bin/activate
 ```
 
 Tạo database:
